@@ -4,7 +4,7 @@ public class Abril11 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Primera prueba de repositorio hecha el 11 de Abril");
+		System.out.println("Primera prueba de repositorio hecha el 11 de Abril por David");
 
 	}
 
